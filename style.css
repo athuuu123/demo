@@ -780,13 +780,13 @@ transition: top 0.5s ease-in-out;
   /* padding: 1rem 0; */
   color: orange;
 }
-
+/* ----------------DANG KY----------- */
 form {
-  width: 600px;
+  width: 500px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 15px;
   border: 1px solid #ccc;
-  border-radius: 5px;
+  border-radius: 20px;
   font-size: 2rem;
   background-color: #fff;
 }
@@ -801,8 +801,8 @@ input[type="tel"],
 input[type="date"],
 input[type="password"] {
   width: 100%;
-  padding: 10px;
-  margin-bottom: 20px;
+  padding: 7px;
+  margin-bottom: 15px;
   border-radius: 5px;
   border: 1px solid #ccc;
 }
@@ -865,7 +865,7 @@ button[type="submit"]{
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 25px 15px;
+  padding: 10px 5px;
   border-radius: 50px;
   font-size: 2.5rem;
 }
@@ -875,15 +875,15 @@ a.facebook{
 }
 
 .facebook-icon{
-    transform: translatex(-70%);
-    font-size: 50px;
+    transform: translatex(-120%);
+    font-size: 30px;
 }
 
 .google-img{
-    height: 40px;
-    width: 40px;
+    height: 20px;
+    width: 20px;
     object-fit: cover;
-    transform: translatex(-130%);
+    transform: translatex(-250%);
 }
 
 a.google{
